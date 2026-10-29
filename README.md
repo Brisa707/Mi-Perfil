@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Bienvenido/a a mi perfil
+# ¡Hola! 👋 Bienvenido/a a mi perfil ִֶָ𓂃 ࣪ ִֶָ🦢་༘࿐
 ### Ejemplo de perfil
 
 # ENLACES:
@@ -24,8 +24,11 @@
 
 ## ¿Quién soy?
 
-Soy estudiante de la Tecnicatura en Programación en la UNAB.
+Soy estudiante de la Tecnicatura en Programación en la UNAB. 
 
 Actualmente estoy aprendiendo HTML, CSS y JavaScript,
 y me interesa seguir desarrollando mis habilidades
-en el mundo de la programación.
+en el mundo de la programación. 
+
+
+##Gracias por visitar mi sitio! 💜🌷
