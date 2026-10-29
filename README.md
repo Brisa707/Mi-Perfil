@@ -1,6 +1,10 @@
 # ¡Hola! 👋 Bienvenido/a a mi perfil
 ### Ejemplo de perfil
 
+# ENLACES:
+### Acá abajo tendran los links directo a mis perfiles para que puedan contactarme. (a actualizar)
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/brisa-nahir-valero-91743a374/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
