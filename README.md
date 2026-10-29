@@ -2,24 +2,29 @@
 ## Titulo 2
 ### Titulo 3
 
-#Bienvenido a mi página 
+# ¡Hola! 👋 Bienvenido/a a mi perfil
 
-<p align = "center">
-  <a href = "https://www.linkedin.com/login/es/?trk=guest_homepage-basic_nav-header-signin/" target ="_blank">
-    <ing alt="Linkedin" src="https://www.linkedin.com/in/brisa-nahir-valero-91743a374?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/brisa-nahir-valero-91743a34/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href = "https://www.bumeran.com.ar/en-buenos-aires/empleos-publicacion-hoy.html/" target = "_blank">
-   <ing alt= "Bumeran" src= "https://www.bumeran.com.ar/candidatos/curriculum/perfil?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  <a href="https://github.com/Brisa707" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mi_perfil-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href = "https://github.com/" target= " _blank">
-   <ing alt= "GitHub"  src= "https://github.com/Brisa707"?style=for-the-badge&logo=linkedin&logoColor=white /> 
+  <a href="https://www.bumeran.com.ar/" target="_blank"
+    <img src="https://img.shields.io/badge/Bumeran-Mi_perfil-orange?style=for-the-badge" alt="Bumeran">
   </a>
-   <a href =  "valerobrisa744@gmail.com>
-     "<ing alt= "Email" src= "https://mail.google.com/mail/u/0/#inbox?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-   </a>
-     </p>
+  <a href="mailto:valerobrisa744@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactame-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-     
+---
+
 ## ¿Quién soy?
-Soy estudiante del curso de JavaScript, HTML y CSS
-Soy estudiante en la Tecnicatura de Programación en la UNAB
+
+Soy estudiante de la Tecnicatura en Programación en la UNAB.
+
+Actualmente estoy aprendiendo HTML, CSS y JavaScript,
+y me interesa seguir desarrollando mis habilidades
+en el mundo de la programación.
